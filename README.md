@@ -3,7 +3,6 @@
 - 🔭 I’m currently working as a Customer Engineer at Google Cloud
 - 🌱 I’m currently learning about Deep Learning, Golang
 - 👯 I’m looking to collaborate on anything and everything
-- 🤔 I’m looking for help with 
 - 📫 How to reach me: @bijukunjummen on twitter and LinkedIn
 
 <!--
