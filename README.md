@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Customer Engineer at Google Cloud
+- 🔭 I am a Software Engineer at Atlassian
 - 🌱 I’m currently learning about Deep Learning, Golang
-- 👯 I’m looking to collaborate on anything and everything
+- 👯 I’m looking forward to any interesting collaborations in the area of SaaS tenant models, and architecture discussions.
 - 📫 How to reach me: @bijukunjummen on twitter and LinkedIn
 
 <!--
